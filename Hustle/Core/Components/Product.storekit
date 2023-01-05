@@ -1,0 +1,798 @@
+{
+  "identifier" : "447F4EE1",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "0.49",
+      "familyShareable" : false,
+      "internalID" : "65015A07",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "20 ELO",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "20ELO",
+      "referenceName" : "20ELO",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "AEB14949",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "40 ELO",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "40ELO",
+      "referenceName" : "40ELO",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "1.49",
+      "familyShareable" : false,
+      "internalID" : "F5E43C76",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "60 ELO",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "60ELO",
+      "referenceName" : "60ELO",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "1.99",
+      "familyShareable" : false,
+      "internalID" : "0C13CAF7",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "80 ELO",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "80ELO",
+      "referenceName" : "80ELO",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "2.49",
+      "familyShareable" : false,
+      "internalID" : "DCB5FB5B",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "100 ELO",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "100ELO",
+      "referenceName" : "100ELO",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "2.99",
+      "familyShareable" : false,
+      "internalID" : "15EACB76",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "120 ELO",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "120ELO",
+      "referenceName" : "120ELO",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "3.49",
+      "familyShareable" : false,
+      "internalID" : "2F28BED2",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "140 ELO",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "140ELO",
+      "referenceName" : "140ELO",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "3.99",
+      "familyShareable" : false,
+      "internalID" : "C7A9C6C0",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "160 ELO",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "160ELO",
+      "referenceName" : "160ELO",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "4.49",
+      "familyShareable" : false,
+      "internalID" : "C94579FD",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "180 ELO",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "180ELO",
+      "referenceName" : "180ELO",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "4.99",
+      "familyShareable" : false,
+      "internalID" : "75993249",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "200 ELO",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "200ELO",
+      "referenceName" : "200ELO",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "5.49",
+      "familyShareable" : false,
+      "internalID" : "39D69A8B",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "220 ELO",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "220ELO",
+      "referenceName" : "220ELO",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "5.99",
+      "familyShareable" : false,
+      "internalID" : "41CE66B3",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "240 ELO",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "240ELO",
+      "referenceName" : "240ELO",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "6.49",
+      "familyShareable" : false,
+      "internalID" : "13FE952B",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "260 ELO",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "260ELO",
+      "referenceName" : "260ELO",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "6.99",
+      "familyShareable" : false,
+      "internalID" : "96DAF73C",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "280 ELO",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "280ELO",
+      "referenceName" : "280ELO",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "7.49",
+      "familyShareable" : false,
+      "internalID" : "21F6B01D",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "300 ELO",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "300ELO",
+      "referenceName" : "300ELO",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "7.99",
+      "familyShareable" : false,
+      "internalID" : "CB25D74F",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "320 ELO",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "320ELO",
+      "referenceName" : "320ELO",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "8.49",
+      "familyShareable" : false,
+      "internalID" : "CB258C91",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "340 ELO",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "340ELO",
+      "referenceName" : "340ELO",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "8.99",
+      "familyShareable" : false,
+      "internalID" : "0A9EAF9E",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "360 ELO",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "360ELO",
+      "referenceName" : "360ELO",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "9.49",
+      "familyShareable" : false,
+      "internalID" : "95C51431",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "380 ELO",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "380ELO",
+      "referenceName" : "380ELO",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "9.99",
+      "familyShareable" : false,
+      "internalID" : "7B6B7D8F",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "400 ELO",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "400ELO",
+      "referenceName" : "400ELO",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "10.49",
+      "familyShareable" : false,
+      "internalID" : "CE5DEB54",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "420 ELO",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "420ELO",
+      "referenceName" : "420ELO",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "10.99",
+      "familyShareable" : false,
+      "internalID" : "520BFB97",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "440 ELO",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "440ELO",
+      "referenceName" : "440ELO",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "11.49",
+      "familyShareable" : false,
+      "internalID" : "0B238C44",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "460 ELO",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "460ELO",
+      "referenceName" : "460ELO",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "11.99",
+      "familyShareable" : false,
+      "internalID" : "4E351D96",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "480 ELO",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "480ELO",
+      "referenceName" : "480ELO",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "12.49",
+      "familyShareable" : false,
+      "internalID" : "EC7BE8E5",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "500 ELO",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "500ELO",
+      "referenceName" : "500ELO",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "12.99",
+      "familyShareable" : false,
+      "internalID" : "B33BC66C",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "520 ELO",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "520ELO",
+      "referenceName" : "520ELO",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "13.49",
+      "familyShareable" : false,
+      "internalID" : "49C42033",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "540 ELO",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "540ELO",
+      "referenceName" : "540ELO",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "13.99",
+      "familyShareable" : false,
+      "internalID" : "C4452388",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "560 ELO",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "560ELO",
+      "referenceName" : "560ELO",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "14.49",
+      "familyShareable" : false,
+      "internalID" : "A9AFC7CC",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "580 ELO",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "580ELO",
+      "referenceName" : "580ELO",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "14.99",
+      "familyShareable" : false,
+      "internalID" : "F5887CF6",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "600 ELO",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "600ELO",
+      "referenceName" : "600ELO",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "15.49",
+      "familyShareable" : false,
+      "internalID" : "7867DBCA",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "620 ELO",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "620ELO",
+      "referenceName" : "620ELO",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "15.99",
+      "familyShareable" : false,
+      "internalID" : "E7CB57C6",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "640 ELO",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "640ELO",
+      "referenceName" : "640ELO",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "16.49",
+      "familyShareable" : false,
+      "internalID" : "E9AF838E",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "660 ELO",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "660ELO",
+      "referenceName" : "660ELO",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "16.99",
+      "familyShareable" : false,
+      "internalID" : "E3837B18",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "680 ELO",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "680ELO",
+      "referenceName" : "680ELO",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "17.49",
+      "familyShareable" : false,
+      "internalID" : "DF108B28",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "700 ELO",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "700ELO",
+      "referenceName" : "700ELO",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "17.99",
+      "familyShareable" : false,
+      "internalID" : "F47E4F55",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "720 ELO",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "720ELO",
+      "referenceName" : "720ELO",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "18.49",
+      "familyShareable" : false,
+      "internalID" : "F31CDAB9",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "740 ELO",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "740ELO",
+      "referenceName" : "740ELO",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "18.99",
+      "familyShareable" : false,
+      "internalID" : "EBA9A7D9",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "760 ELO",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "760ELO",
+      "referenceName" : "760ELO",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "19.49",
+      "familyShareable" : false,
+      "internalID" : "90E2EC14",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "780 ELO",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "780ELO",
+      "referenceName" : "780ELO",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "19.99",
+      "familyShareable" : false,
+      "internalID" : "E968799E",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "800 ELO",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "800ELO",
+      "referenceName" : "800ELO",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "20.49",
+      "familyShareable" : false,
+      "internalID" : "A6595D2B",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "820 ELO",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "820ELO",
+      "referenceName" : "820ELO",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "20.99",
+      "familyShareable" : false,
+      "internalID" : "61BA21C3",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "840 ELO",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "840ELO",
+      "referenceName" : "840ELO",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "21.49",
+      "familyShareable" : false,
+      "internalID" : "29717C74",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "860 ELO",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "860ELO",
+      "referenceName" : "860ELO",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "21.99",
+      "familyShareable" : false,
+      "internalID" : "20E7EDC0",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "880 ELO",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "880ELO",
+      "referenceName" : "880ELO",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "22.49",
+      "familyShareable" : false,
+      "internalID" : "099FAB94",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "900 ELO",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "900ELO",
+      "referenceName" : "900ELO",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "1.99",
+      "familyShareable" : false,
+      "internalID" : "87C80F06",
+      "localizations" : [
+        {
+          "description" : "One Day Promotion",
+          "displayName" : "One Day Promotion",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "1Day",
+      "referenceName" : "One Day Promotion",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "3.99",
+      "familyShareable" : false,
+      "internalID" : "B9DC300D",
+      "localizations" : [
+        {
+          "description" : "Three Day Promotion",
+          "displayName" : "Three Day Promotion",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "3Day",
+      "referenceName" : "Three Day Promotion",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "300",
+      "familyShareable" : false,
+      "internalID" : "394AC158",
+      "localizations" : [
+        {
+          "description" : "One Day Ad",
+          "displayName" : "OneDayBoost",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "OneDayBoost",
+      "referenceName" : "OneDayBoost",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "600",
+      "familyShareable" : false,
+      "internalID" : "82FA1F23",
+      "localizations" : [
+        {
+          "description" : "Two Day Ad",
+          "displayName" : "TwoDayBoost",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "TwoDayBoost",
+      "referenceName" : "TwoDayBoost",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "900",
+      "familyShareable" : false,
+      "internalID" : "8CB04FFF",
+      "localizations" : [
+        {
+          "description" : "Three Day Ad",
+          "displayName" : "ThreeDayBoost",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "ThreeDayBoost",
+      "referenceName" : "ThreeDayBoost",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "500",
+      "familyShareable" : false,
+      "internalID" : "F063DAFC",
+      "localizations" : [
+        {
+          "description" : "One Day Ad Plus",
+          "displayName" : "OneDayBoostPlus",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "OneDayBoostPlus",
+      "referenceName" : "OneDayBoostPlus",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "1000",
+      "familyShareable" : false,
+      "internalID" : "91DA97BC",
+      "localizations" : [
+        {
+          "description" : "Two Day Ad Plus",
+          "displayName" : "TwoDayBoostPlus",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "TwoDayBoostPlus",
+      "referenceName" : "TwoDayBoostPlus",
+      "type" : "Consumable"
+    }
+  ],
+  "settings" : {
+
+  },
+  "subscriptionGroups" : [
+
+  ],
+  "version" : {
+    "major" : 2,
+    "minor" : 0
+  }
+}
